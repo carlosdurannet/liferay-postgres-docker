@@ -1,0 +1,1 @@
+If you need a script launches before Liferay starts, place script file here
